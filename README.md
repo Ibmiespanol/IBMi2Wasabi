@@ -19,7 +19,7 @@ aws configure
 
 * Now you just need to adjust values in mnus3w_const.sh to reflect your configuration and you can run ./mnus3w.sh
 
-![IBMi_Cloud_Backup Menu](https://github.com/dkesselman/IBMi2Wasabi/edit/main/Wasabi_MnuS3.png "IBM i Backup to WASABI Cloud - BASH Menu")
+![Cloud Menu](https://github.com/dkesselman/IBMi2Wasabi/blob/main/Wasabi_MnuS3.png "IBM i Backup to WASABI Cloud - BASH Menu")
 
 
 ## NOTE1: We are not related to WASABI Technologies
