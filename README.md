@@ -14,8 +14,8 @@ Python3 readline pigz git p7zip (new addition)
 * You need a bucket in WASABI. There's a 1TB trial you can use.
 * You need to download the .sh to some directory on your IFS, something like "/IBMiCloudBackup/" , change permissions with chmod +x *.sh
 * You need to install AWS CLI: 
-pip3 install awscli
-aws configure
+- pip3 install awscli
+- aws configure
 
 * Now you just need to adjust values in mnus3w_const.sh to reflect your configuration and you can run ./mnus3w.sh
 
